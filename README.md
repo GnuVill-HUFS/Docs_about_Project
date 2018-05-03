@@ -23,15 +23,23 @@
 ### 라이브러리
 
 * requests
-
-  > rest-api 사용에 있어서 핵심적인 라이브러리
+  > Python에서 http 요청을 보내는 모듈입니다.
+  
+  > 이를 이용해 웹페이지에서 데이터를 가져올 수 있습니다.
+  
+  > rest-api 사용에 있어서 핵심적인 라이브러리입니다.
+  > 
+  > [공식 문서](http://docs.python-requests.org/en/master/)
 
 
 * BeautifulSoup
 
-  > request를 통해 크롤링한 데이터를 파싱하는데 쓴다 
-  >
+  > requests로 받아온 데이터를 **Python이 이해하는 객체로** 만들어줍니다.
+  
+  > 이를 이용해 우리가 원하는 데이터만 뽑아 낼 수 있습니다
   > > parser: lxml 사용
+  > 
+  > [공식 문서](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 * json
 
