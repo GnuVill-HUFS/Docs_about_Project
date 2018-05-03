@@ -51,7 +51,7 @@
 
 ### 프레임워크
 
-* Django
+* [Django](https://tutorial.djangogirls.org/ko/)
 
   > ```
   > 자주 쓰이는 모듈
