@@ -6,7 +6,7 @@
 
 ## 원활한 진행을 위해 반드시 git 사용법 숙지해주세요
 
-
+[파이썬으로 무엇을 할 수 있는가](https://github.com/GnuVill-HUFS/GnuVill-Books/blob/master/README.md)
 
 ## 백엔드
 
